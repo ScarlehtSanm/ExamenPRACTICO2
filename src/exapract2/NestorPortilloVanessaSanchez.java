@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author nafaj
+ * @author 
  */
 public class Exapract2 {
 
