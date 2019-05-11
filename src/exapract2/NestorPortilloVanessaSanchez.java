@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package exapract2;
+package NestorPortilloVanessaSanchez;
 
 import javax.swing.JOptionPane;
 
