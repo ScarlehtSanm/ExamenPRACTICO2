@@ -23,6 +23,9 @@ horas trabajadas.
  El programa debe mostrar al final por medio de un JOPtionPane el detalle de la planilla y el total de la
 planilla. En otro Cuadro de dialogo se mostrará el nombre del empleado que más gano en esa planilla.
         
+        Integrantes 
+        Vanessa Scarleth Sanchez Mejia 
+        Nestor Alexis Fajardo Protillo
     */
      int cant=0;
      int j=0;
